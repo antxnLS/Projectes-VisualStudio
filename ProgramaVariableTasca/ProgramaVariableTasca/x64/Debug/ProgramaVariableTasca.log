@@ -1,0 +1,7 @@
+﻿  ProgramaVariableTasca.cpp
+E:\AluCiclesGS1\AV\VisualStudio\ProgramaVariableTasca\ProgramaVariableTasca\ProgramaVariableTasca.cpp(21,27): warning C4101: 'var4': variable local sin referencia
+E:\AluCiclesGS1\AV\VisualStudio\ProgramaVariableTasca\ProgramaVariableTasca\ProgramaVariableTasca.cpp(21,21): warning C4101: 'var3': variable local sin referencia
+E:\AluCiclesGS1\AV\VisualStudio\ProgramaVariableTasca\ProgramaVariableTasca\ProgramaVariableTasca.cpp(21,15): warning C4101: 'var2': variable local sin referencia
+E:\AluCiclesGS1\AV\VisualStudio\ProgramaVariableTasca\ProgramaVariableTasca\ProgramaVariableTasca.cpp(21,33): warning C4101: 'var5': variable local sin referencia
+E:\AluCiclesGS1\AV\VisualStudio\ProgramaVariableTasca\ProgramaVariableTasca\ProgramaVariableTasca.cpp(21,9): warning C4101: 'var1': variable local sin referencia
+  ProgramaVariableTasca.vcxproj -> E:\AluCiclesGS1\AV\VisualStudio\ProgramaVariableTasca\x64\Debug\ProgramaVariableTasca.exe

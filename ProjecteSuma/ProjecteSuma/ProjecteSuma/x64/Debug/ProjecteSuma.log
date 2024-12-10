@@ -1,0 +1,3 @@
+﻿  ProjecteSuma.cpp
+E:\AluCiclesGS1\AV\VisualStudio\ProjecteSuma\ProjecteSuma\ProjecteSuma.cpp(7,1): error C2760: error de sintaxis: "int" no se esperaba aquí; se esperaba ";"
+E:\AluCiclesGS1\AV\VisualStudio\ProjecteSuma\ProjecteSuma\ProjecteSuma.cpp(7,5): error C4430: falta el especificador de tipo; se presupone int. Nota: C++ no admite default-int

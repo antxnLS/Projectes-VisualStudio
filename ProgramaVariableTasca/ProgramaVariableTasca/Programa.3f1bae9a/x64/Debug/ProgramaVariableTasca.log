@@ -1,0 +1,15 @@
+﻿  ProgramaVariableTasca.cpp
+E:\AluCiclesGS1\AV\VisualStudio\ProgramaVariableTasca\ProgramaVariableTasca\ProgramaVariableTasca.cpp(7,1): error C4430: falta el especificador de tipo; se presupone int. Nota: C++ no admite default-int
+E:\AluCiclesGS1\AV\VisualStudio\ProgramaVariableTasca\ProgramaVariableTasca\ProgramaVariableTasca.cpp(7,5): error C2146: error de sintaxis: falta ';' delante del identificador 'peus'
+E:\AluCiclesGS1\AV\VisualStudio\ProgramaVariableTasca\ProgramaVariableTasca\ProgramaVariableTasca.cpp(8,1): error C4430: falta el especificador de tipo; se presupone int. Nota: C++ no admite default-int
+E:\AluCiclesGS1\AV\VisualStudio\ProgramaVariableTasca\ProgramaVariableTasca\ProgramaVariableTasca.cpp(8,1): error C2086: 'int Int': nueva definición
+      E:\AluCiclesGS1\AV\VisualStudio\ProgramaVariableTasca\ProgramaVariableTasca\ProgramaVariableTasca.cpp(7,1):
+      vea la declaración de 'Int'
+  
+E:\AluCiclesGS1\AV\VisualStudio\ProgramaVariableTasca\ProgramaVariableTasca\ProgramaVariableTasca.cpp(8,5): error C2146: error de sintaxis: falta ';' delante del identificador 'polzades'
+E:\AluCiclesGS1\AV\VisualStudio\ProgramaVariableTasca\ProgramaVariableTasca\ProgramaVariableTasca.cpp(14,9): error C2146: error de sintaxis: falta ';' delante del identificador 'peus'
+E:\AluCiclesGS1\AV\VisualStudio\ProgramaVariableTasca\ProgramaVariableTasca\ProgramaVariableTasca.cpp(14,9): error C2065: 'peus': identificador no declarado
+E:\AluCiclesGS1\AV\VisualStudio\ProgramaVariableTasca\ProgramaVariableTasca\ProgramaVariableTasca.cpp(15,9): error C2146: error de sintaxis: falta ';' delante del identificador 'polzades'
+E:\AluCiclesGS1\AV\VisualStudio\ProgramaVariableTasca\ProgramaVariableTasca\ProgramaVariableTasca.cpp(15,9): error C2065: 'polzades': identificador no declarado
+E:\AluCiclesGS1\AV\VisualStudio\ProgramaVariableTasca\ProgramaVariableTasca\ProgramaVariableTasca.cpp(16,25): error C2065: 'peus': identificador no declarado
+E:\AluCiclesGS1\AV\VisualStudio\ProgramaVariableTasca\ProgramaVariableTasca\ProgramaVariableTasca.cpp(17,29): error C2065: 'polzades': identificador no declarado
