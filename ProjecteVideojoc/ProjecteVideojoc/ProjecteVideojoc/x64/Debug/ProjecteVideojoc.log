@@ -1,0 +1,6 @@
+﻿  ProjecteVideojoc.cpp
+E:\AluCiclesGS1\AV\VisualStudio\ProjecteVideojoc\ProjecteVideojoc\ProjecteVideojoc.cpp(21,14): warning C4554: "<<": compruebe la prioridad de operador para posibles errores; utilice paréntesis para indicar la prioridad
+E:\AluCiclesGS1\AV\VisualStudio\ProjecteVideojoc\ProjecteVideojoc\ProjecteVideojoc.cpp(21,14): warning C4552: "<<": el resultado de la expresión no se usa
+E:\AluCiclesGS1\AV\VisualStudio\ProjecteVideojoc\ProjecteVideojoc\ProjecteVideojoc.cpp(22,16): warning C4554: "<<": compruebe la prioridad de operador para posibles errores; utilice paréntesis para indicar la prioridad
+E:\AluCiclesGS1\AV\VisualStudio\ProjecteVideojoc\ProjecteVideojoc\ProjecteVideojoc.cpp(22,16): warning C4552: "<<": el resultado de la expresión no se usa
+  ProjecteVideojoc.vcxproj -> E:\AluCiclesGS1\AV\VisualStudio\ProjecteVideojoc\ProjecteVideojoc\x64\Debug\ProjecteVideojoc.exe

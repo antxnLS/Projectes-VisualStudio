@@ -1,0 +1,2 @@
+﻿  PensamentComputacional.cpp
+E:\AluCiclesGS1\AV\VisualStudio\PensamentComputacional\PensamentComputacional\PensamentComputacional.cpp(27,1): error C4700: se utilizó la variable local 'videsCopia' sin inicializar
