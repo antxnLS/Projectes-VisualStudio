@@ -1,0 +1,5 @@
+﻿  StringTesterProgram.cpp
+E:\AluCiclesGS1\AV\VisualStudio\StringTesterProgram\StringTesterProgram\StringTesterProgram.cpp(28,19): warning C4267: 'inicializando': conversión de 'size_t' a 'int'; posible pérdida de datos
+E:\AluCiclesGS1\AV\VisualStudio\StringTesterProgram\StringTesterProgram\StringTesterProgram.cpp(57,16): warning C4267: 'inicializando': conversión de 'size_t' a 'int'; posible pérdida de datos
+E:\AluCiclesGS1\AV\VisualStudio\StringTesterProgram\StringTesterProgram\StringTesterProgram.cpp(72,21): warning C4267: 'inicializando': conversión de 'size_t' a 'int'; posible pérdida de datos
+  StringTesterProgram.vcxproj -> E:\AluCiclesGS1\AV\VisualStudio\StringTesterProgram\x64\Debug\StringTesterProgram.exe

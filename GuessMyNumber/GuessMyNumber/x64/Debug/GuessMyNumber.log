@@ -1,0 +1,5 @@
+﻿  GuessMyNumber.cpp
+E:\AluCiclesGS1\AV\VisualStudio\GuessMyNumber\GuessMyNumber\GuessMyNumber.cpp(5,6): warning C4326: el tipo de valor devuelto de 'main' debe ser 'int' en lugar de 'void'
+E:\AluCiclesGS1\AV\VisualStudio\GuessMyNumber\GuessMyNumber\GuessMyNumber.cpp(7,15): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+E:\AluCiclesGS1\AV\VisualStudio\GuessMyNumber\GuessMyNumber\GuessMyNumber.cpp(25,19): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+  GuessMyNumber.vcxproj -> E:\AluCiclesGS1\AV\VisualStudio\GuessMyNumber\x64\Debug\GuessMyNumber.exe
