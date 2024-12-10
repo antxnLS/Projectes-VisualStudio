@@ -1,0 +1,4 @@
+﻿  GuessMyNumberAlReves.cpp
+E:\AluCiclesGS1\AV\VisualStudio\GuessMyNumberAlReves\GuessMyNumberAlReves\GuessMyNumberAlReves.cpp(7,6): warning C4326: el tipo de valor devuelto de 'main' debe ser 'int' en lugar de 'void'
+E:\AluCiclesGS1\AV\VisualStudio\GuessMyNumberAlReves\GuessMyNumberAlReves\GuessMyNumberAlReves.cpp(12,15): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+  GuessMyNumberAlReves.vcxproj -> E:\AluCiclesGS1\AV\VisualStudio\GuessMyNumberAlReves\GuessMyNumberAlReves\x64\Debug\GuessMyNumberAlReves.exe
