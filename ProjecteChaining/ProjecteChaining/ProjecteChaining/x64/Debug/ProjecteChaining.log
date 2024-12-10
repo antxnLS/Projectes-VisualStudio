@@ -1,0 +1,3 @@
+﻿  ProjecteChaining.cpp
+E:\AluCiclesGS1\AV\VisualStudio\ProjecteChaining\ProjecteChaining\ProjecteChaining.cpp(7,6): warning C4326: el tipo de valor devuelto de 'main' debe ser 'int' en lugar de 'void'
+  ProjecteChaining.vcxproj -> E:\AluCiclesGS1\AV\VisualStudio\ProjecteChaining\ProjecteChaining\x64\Debug\ProjecteChaining.exe

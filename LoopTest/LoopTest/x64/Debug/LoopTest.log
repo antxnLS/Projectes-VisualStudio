@@ -1,0 +1,4 @@
+﻿  LoopTest.cpp
+E:\AluCiclesGS1\AV\VisualStudio\LoopTest\LoopTest\LoopTest.cpp(13,14): error C2065: 'a': identificador no declarado
+E:\AluCiclesGS1\AV\VisualStudio\LoopTest\LoopTest\LoopTest.cpp(17,14): error C2065: 'a': identificador no declarado
+E:\AluCiclesGS1\AV\VisualStudio\LoopTest\LoopTest\LoopTest.cpp(23,19): error C2015: hay demasiados caracteres en la constante
