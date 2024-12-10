@@ -1,0 +1,9 @@
+﻿  ProjectSFML.cpp
+E:\AluCiclesGS1\AV\VisualStudio\ProjectSFML\ProjectSFML\ProjectSFML.cpp(63,25): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+E:\AluCiclesGS1\AV\VisualStudio\ProjectSFML\ProjectSFML\ProjectSFML.cpp(64,25): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+E:\AluCiclesGS1\AV\VisualStudio\ProjectSFML\ProjectSFML\ProjectSFML.cpp(65,25): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+E:\AluCiclesGS1\AV\VisualStudio\ProjectSFML\ProjectSFML\ProjectSFML.cpp(66,23): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+E:\AluCiclesGS1\AV\VisualStudio\ProjectSFML\ProjectSFML\ProjectSFML.cpp(67,23): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+E:\AluCiclesGS1\AV\VisualStudio\ProjectSFML\ProjectSFML\ProjectSFML.cpp(69,23): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+E:\AluCiclesGS1\AV\VisualStudio\ProjectSFML\ProjectSFML\ProjectSFML.cpp(70,23): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+  ProjectSFML.vcxproj -> E:\AluCiclesGS1\AV\VisualStudio\ProjectSFML\Debug\ProjectSFML.exe
