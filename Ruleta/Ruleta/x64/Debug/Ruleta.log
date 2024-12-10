@@ -1,0 +1,3 @@
+﻿  Ruleta.cpp
+E:\AluCiclesGS1\AV\VisualStudio\Ruleta\Ruleta\Ruleta.cpp(18,15): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+  Ruleta.vcxproj -> E:\AluCiclesGS1\AV\VisualStudio\Ruleta\x64\Debug\Ruleta.exe
