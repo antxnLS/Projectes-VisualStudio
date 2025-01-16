@@ -1,4 +1,0 @@
-﻿  RussianRoulette.cpp
-E:\AluCiclesGS1\AV\VisualStudio\RussianRoulette\RussianRoulette\RussianRoulette.cpp(15,15): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
-E:\AluCiclesGS1\AV\VisualStudio\RussianRoulette\RussianRoulette\RussianRoulette.cpp(10,10): warning C4101: 'jugarDeNou': variable local sin referencia
-  RussianRoulette.vcxproj -> E:\AluCiclesGS1\AV\VisualStudio\RussianRoulette\x64\Debug\RussianRoulette.exe
